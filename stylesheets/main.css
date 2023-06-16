@@ -1,2 +1,16 @@
 html
-#h1 {color: black; font: size 60px;}
+/* #h1 {color: black; font: size 60px;} */
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: left;
+  font-size: 40px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
